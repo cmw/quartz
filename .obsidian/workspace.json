@@ -18,20 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "21025e14e5bcb0a8",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +150,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21025e14e5bcb0a8",
+  "active": "560e38b8d6d6e306",
   "lastOpenFiles": [
     "content/notes/moc/Laws.md",
     "content/notes/Goodhart's Law.md",
