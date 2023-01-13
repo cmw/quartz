@@ -9,15 +9,15 @@ Some of the laws we come across in software development, project and people mana
 
 [Conway's law](content/notes/Conway's%20law.md)
 
-![Little's Law](content/notes/Little's%20Law.md#Little's%20law)
+[Little's Law](content/notes/Little's%20Law.md)
 
-![](content/notes/Parkinson's%20law.md#Parkinson's%20law)
+[Parkinson's Law](content/notes/Parkinson's%20law.md)
 
-![](content/notes/Brooks's%20law.md#Brooks's%20law)
+[Brooks's Law](content/notes/Brooks's%20law.md)
 
-![](content/notes/Goodhart's%20Law.md#Goodhart's%20Law)
+[Goodhart's Law](content/notes/Goodhart's%20Law.md)
 
-![](content/notes/Law%20of%20Best%20Choice.md#Law%20of%20Best%20Choice)
+[Law of Best Choice](content/notes/Law%20of%20Best%20Choice.md)
 
 ---
 # References
