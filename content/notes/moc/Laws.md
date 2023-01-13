@@ -6,7 +6,7 @@ title: Laws
 
 Some of the laws we come across in software development, project and people management, or work in general.
 
-[[Conway's Law]]
+[[notes/Conway's Law]]
 
 [[notes/Little's Law]]
 
@@ -16,7 +16,7 @@ Some of the laws we come across in software development, project and people mana
 
 [[notes/Goodhart's Law]]
 
-[[Law of Best Choice]]
+[[notes/Law of Best Choice]]
 
 ---
 # References
