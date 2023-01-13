@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/_index.md"
+              }
             }
           },
           {
@@ -150,9 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "560e38b8d6d6e306",
+  "active": "777945f289ae6846",
   "lastOpenFiles": [
     "content/notes/moc/Laws.md",
+    "content/_index.md",
     "content/notes/Goodhart's Law.md",
     "content/notes/Hawthorne Effect.md",
     "content/notes/Brooks's Law.md",
@@ -160,7 +165,6 @@
     "content/notes/Little's Law.md",
     "content/notes/Conway's Law.md",
     "content/notes/Goodhart's.md",
-    "content/_index.md",
     "obsidian.md"
   ]
 }

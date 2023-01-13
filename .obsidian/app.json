@@ -9,5 +9,7 @@
     "i18n/",
     "layouts/",
     "static/"
-  ]
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content"
 }
