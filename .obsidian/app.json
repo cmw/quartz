@@ -1,0 +1,13 @@
+{
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "content/notes/images",
+  "userIgnoreFilters": [
+    "assets/",
+    "data/",
+    "i18n/",
+    "layouts/",
+    "static/"
+  ]
+}
