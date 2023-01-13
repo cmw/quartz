@@ -16,7 +16,7 @@ Some of the laws we come across in software development, project and people mana
 
 [[content/notes/Goodhart's Law]]
 
-[[content/notes/Law of Best Choice]]
+[[Law of Best Choice]]
 
 ---
 # References
