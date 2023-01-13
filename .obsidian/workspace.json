@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/moc/Laws.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/moc/Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/moc/Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/moc/Laws.md"
               }
             }
           },
@@ -181,10 +181,10 @@
   },
   "active": "b5d87f935b3bac1a",
   "lastOpenFiles": [
+    "content/_index.md",
     "content/notes/Hawthorne Effect.md",
     "content/notes/Goodhart's Law.md",
-    "content/_index.md",
-    "content/notes/Laws.md",
+    "content/notes/moc/Laws.md",
     "obsidian.md",
     "content/notes/Law of Best Choice.md",
     "content/notes/Little's Law.md",
