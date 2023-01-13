@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7f9be9b60a80da7d",
+        "id": "221cdddfa3d26615",
         "type": "tabs",
         "children": [
           {
-            "id": "07b9d708b0642d73",
+            "id": "0709975f0ed90483",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07b9d708b0642d73",
+  "active": "0709975f0ed90483",
   "lastOpenFiles": [
-    "content/_index.md",
     "content/notes/moc/Laws.md",
+    "content/notes/Law of Best Choice.md",
+    "content/_index.md",
     "content/notes/Goodhart's Law.md",
     "content/notes/Hawthorne Effect.md",
     "content/notes/Brooks's Law.md",
     "content/notes/Parkinson's Law.md",
     "content/notes/Little's Law.md",
     "content/notes/Conway's Law.md",
-    "content/notes/Goodhart's.md",
-    "obsidian.md"
+    "content/notes/Goodhart's.md"
   ]
 }
