@@ -8,10 +8,15 @@ date: 20220313
 Some of the laws we come across in software development, project and people management, or work in general.
 
 ![[Conway's law#Conway's law]]
+
 ![[Little's law#Little's law]]
+
 ![[Parkinson's law#Parkinson's law]]
+
 ![[Brooks's law#Brooks's law]]
+
 ![[Goodhart's Law#Goodhart's Law]]
+
 ![[Law of Best Choice#Law of Best Choice]]
 
 ---
