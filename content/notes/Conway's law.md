@@ -1,10 +1,10 @@
 ---
-title: "Conway's law"
+title: "Conway's Law"
 tags:
 - law
 ---
 
-# Conway's law
+# Conway's Law
 
 > Any Organization that designs a system … will produce a design whose structure is a copy of the organization's communication structure.
 > - Mel Conway

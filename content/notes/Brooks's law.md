@@ -1,10 +1,10 @@
 ---
-title: "Brooks's law"
+title: "Brooks's Law"
 tags:
 - law
 ---
 
-# Brooks's law
+# Brooks's Law
 
 > adding manpower to a late software project makes it later
 

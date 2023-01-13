@@ -7,13 +7,13 @@ date: 20220313
 
 Some of the laws we come across in software development, project and people management, or work in general.
 
-[Conway's law](content/notes/Conway's%20law.md)
+[Conway's Law](content/notes/Conway's%20Law.md)
 
 [Little's Law](content/notes/Little's%20Law.md)
 
-[Parkinson's Law](content/notes/Parkinson's%20law.md)
+[Parkinson's Law](content/notes/Parkinson's%20Law.md)
 
-[Brooks's Law](content/notes/Brooks's%20law.md)
+[Brooks's Law](content/notes/Brooks's%20Law.md)
 
 [Goodhart's Law](content/notes/Goodhart's%20Law.md)
 

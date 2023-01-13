@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/moc/Laws.md",
+                "file": "content/notes/Hawthorne Effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/moc/Laws.md",
+                "file": "content/notes/Hawthorne Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/moc/Laws.md",
+                "file": "content/notes/Hawthorne Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/moc/Laws.md"
+                "file": "content/notes/Hawthorne Effect.md"
               }
             }
           },
@@ -181,15 +181,15 @@
   },
   "active": "b5d87f935b3bac1a",
   "lastOpenFiles": [
+    "content/notes/moc/Laws.md",
+    "content/notes/Brooks's Law.md",
+    "content/notes/Parkinson's Law.md",
+    "content/notes/Little's Law.md",
+    "content/notes/Conway's Law.md",
+    "content/notes/Goodhart's Law.md",
+    "content/notes/Goodhart's.md",
     "content/_index.md",
     "content/notes/Hawthorne Effect.md",
-    "content/notes/Goodhart's Law.md",
-    "content/notes/moc/Laws.md",
-    "obsidian.md",
-    "content/notes/Law of Best Choice.md",
-    "content/notes/Little's Law.md",
-    "content/notes/Parkinson's law.md",
-    "content/notes/Brooks's law.md",
-    "content/notes/Conway's law.md"
+    "obsidian.md"
   ]
 }
