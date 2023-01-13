@@ -23,11 +23,10 @@
             "id": "21025e14e5bcb0a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "content/notes/moc/Laws.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/app.json",
+                "staged": false
               }
             }
           }
@@ -98,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/moc/Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/moc/Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/notes/moc/Laws.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,8 +164,8 @@
   },
   "active": "21025e14e5bcb0a8",
   "lastOpenFiles": [
-    "content/notes/Goodhart's Law.md",
     "content/notes/moc/Laws.md",
+    "content/notes/Goodhart's Law.md",
     "content/notes/Hawthorne Effect.md",
     "content/notes/Brooks's Law.md",
     "content/notes/Parkinson's Law.md",

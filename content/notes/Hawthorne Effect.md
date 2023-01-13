@@ -7,7 +7,7 @@ tags:
 
 > The Hawthorne Effect shows people, when being watched, choose to increase their performance. Many, in error, interpret this to mean more transparency means more productivity. But the increased performance often turns out to be Oscar-worthy acting to appear to be in the rails.[1]
 
-Possible explanation for [Goodhart's Law](content/notes/Goodhart's%20Law.md)
+Possible explanation for [[content/notes/Goodhart's Law]]
 
 ---
 # References
