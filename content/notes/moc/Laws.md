@@ -8,13 +8,13 @@ Some of the laws we come across in software development, project and people mana
 
 [[Conway's Law]]
 
-[[content/notes/Little's Law]]
+[[notes/Little's Law]]
 
-[[content/notes/Parkinson's Law]]
+[[notes/Parkinson's Law]]
 
-[[content/notes/Brooks's Law]]
+[[notes/Brooks's Law]]
 
-[[content/notes/Goodhart's Law]]
+[[notes/Goodhart's Law]]
 
 [[Law of Best Choice]]
 

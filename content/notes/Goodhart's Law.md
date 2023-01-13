@@ -13,7 +13,7 @@ Adage
 Original
 > Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes.
 
-Possible explanation: [[content/notes/Hawthorne Effect]]
+Possible explanation: [[notes/Hawthorne Effect]]
 
 [[Unbiased Metrics]]
 
