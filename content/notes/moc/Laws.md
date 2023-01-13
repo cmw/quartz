@@ -1,6 +1,5 @@
 ---
 title: Laws
-date: 20220313
 ---
 
 # Laws

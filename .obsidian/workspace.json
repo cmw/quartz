@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b5d87f935b3bac1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/Hawthorne Effect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Hawthorne Effect.md",
+                "file": "content/notes/Goodhart's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Hawthorne Effect.md",
+                "file": "content/notes/Goodhart's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,12 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Hawthorne Effect.md"
+                "file": "content/notes/Goodhart's Law.md"
               }
             }
           },
           {
-            "id": "db43ac53c8a0880c",
+            "id": "560e38b8d6d6e306",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -179,9 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5d87f935b3bac1a",
+  "active": "21025e14e5bcb0a8",
   "lastOpenFiles": [
     "content/notes/moc/Laws.md",
+    "content/notes/Hawthorne Effect.md",
     "content/notes/Brooks's Law.md",
     "content/notes/Parkinson's Law.md",
     "content/notes/Little's Law.md",
@@ -189,7 +178,6 @@
     "content/notes/Goodhart's Law.md",
     "content/notes/Goodhart's.md",
     "content/_index.md",
-    "content/notes/Hawthorne Effect.md",
     "obsidian.md"
   ]
 }
