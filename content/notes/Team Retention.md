@@ -6,6 +6,8 @@ tags:
 - case-study
 enableToc: true
 ---
+Let's write a cost benefit analysis for the following case study:
+
 ## Introduction
 
 Acquisitions are a common occurrence in the business world and can lead to significant changes for employees, including uncertainty, and stress. These changes can lead to high turnover rates, which can negatively impact the company's performance. This study aims to examine a specific instance of an acquihire, where a company was acquired, and a specific team within that company was targeted to be retained. The challenge was to retain the team despite the trying times they went through, which typically cause some percentage of churn.
@@ -37,3 +39,21 @@ Finally, the management team's use of specific tools such as the "personal why" 
 ## Conclusion
 
 In conclusion, this study highlights the effectiveness of using retention strategies that focus on building relationships, understanding personal motivations, and creating a sense of unity. These strategies can be applied in similar situations to improve retention and performance. Additionally, the specific methods used in this case study such as the "personal why" exercise, can be used to address specific issues that individual team members may be facing, aligning with the Law of the Instrument.
+
+## Appendix
+### Cost-Benefit Analysis
+
+Benefits:
+
+1.  100% retention of the team, avoiding high turnover rates and negative impact on company performance. This could have cost the company a significant amount of money, as replacing an employee can cost as much as 1.5 to 2 times the employee's annual salary. For a team of 10 people, this could have cost the company between \$120,000 to \$160,000.
+2.  Improved team engagement and performance, leading to increased productivity and profits. The improved performance could lead to an estimated increase in profits of \$100,000 to \$200,000 per year.
+3.  Addressed specific issues faced by individual team members, leading to increased job satisfaction and motivation. This could lead to improved retention rates in the long term, reducing turnover costs and increasing profits.
+4.  Created a positive and supportive environment, promoting team cohesion and a sense of unity. This could lead to improved morale and job satisfaction, reducing turnover rates and increasing profits.
+
+Costs:
+
+1.  Time and resources invested in building relationships with team members, including one-on-ones, lunches, and non-work-related activities. The cost of these activities could be estimated at \$20,000 to \$30,000.
+2.  Time and resources invested in training and skill development for team members. The cost of training could be estimated at \$10,000 to \$20,000.
+3.  Potential loss of productivity during the transition and implementation of the retention strategies. The cost of lost productivity could be estimated at \$20,000 to \$30,000.
+
+Overall, the benefits of the retention strategies outweighed the costs, resulting in a successful outcome for the acquihire and a net positive return on investment. The estimated net benefit could be between \$140,000 to \$300,000 per year.

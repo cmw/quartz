@@ -29,3 +29,33 @@ Effective team performance is essential for the success of any organization. How
 ## Conclusion
 
 The case study demonstrates that a data-driven approach to addressing team issues, combined with effective strategies for addressing interpersonal issues, can lead to significant improvements in team performance. The key factors in the team's turnaround were the changes to the process to combat the team's anxiety and the removal of the toxic colleague to combat the undermining behavior. The study also highlights the importance of providing a long-term solution by training a successor and passing on the knowledge and techniques used to turn the team around.
+
+## Appendix
+
+### Cost-Benefit Analysis
+
+Benefits:
+
+1.  Significant improvement in team performance - increased throughput and planning accuracy
+    -   Increased productivity, estimated at \$100,000 per year
+2.  Improved work environment - removal of toxic team member improved team morale and overall output
+    -   Improved morale and motivation, estimated at \$50,000 per year
+3.  Better team predictability - shift from Scrum to Kanban helped alleviate anxiety around carry-over
+    -   Improved predictability, estimated at \$30,000 per year
+4.  Increased trust among team members - team exercises helped build trust and better collaboration
+    -   Improved collaboration and teamwork, estimated at \$40,000 per year
+
+Costs:
+
+1.  Removal of a team member - loss of expertise and decrease in head-count
+    -   Loss of productivity, estimated at \$20,000 per year
+2.  Talent acquisition cost to replace team member - hiring and onboarding process requires time and resources
+    -   Talent acquisition cost, estimated at \$30,000
+3.  Time cost to analyze the situation - manager spent 3 months analyzing and making changes to the team
+    -   Time cost, estimated at \$15,000
+4.  Training for a successor - necessary for long-term success, but requires additional resources and time
+    -   Training cost, estimated at \$10,000
+
+Net Benefit: \$225,000 per year
+
+Note: These values are estimates and may vary based on actual circumstances. The purpose of this analysis is to demonstrate the potential impact of the changes made by the manager and to highlight the importance of considering both the benefits and costs of similar initiatives in the future.

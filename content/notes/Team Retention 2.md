@@ -40,11 +40,11 @@ This case study highlights the importance of effective communication, employee w
 
 ## Appendix
 
-# Book
+### Book
 
 "5 Dysfunctions of a Team" by Patrick Lencioni is a book that emphasizes the importance of building a cohesive team through trust, conflict, commitment, accountability, and results. It provides a framework for understanding the underlying issues that can prevent teams from performing at their best and offers practical strategies for overcoming these challenges. The book is based on the idea that trust, the foundation of any healthy team, is built on the five dysfunctions: absence of trust, fear of conflict, lack of commitment, avoidance of accountability, and inattention to results. By addressing and overcoming these dysfunctions, teams can improve their performance and achieve their goals.
 
-# Cost-benefit analysis
+### Cost-benefit analysis
 
 Given, the cost of implementing the techniques from "5 Dysfunctions of a Team" is \$10,000. The benefit of retaining the team of 10 employees would be \$500,000 (estimated average salary of each employee per year times 10). The benefit of retaining the other two teams would be: \$175,000 and \$112,500 respectively.
 
