@@ -6,19 +6,19 @@ title: Laws
 
 Some of the laws we come across in software development, project and people management, or work in general.
 
-[[notes/Conway's Law]]
+[[notes/Conways Law]]
 
 [[notes/Little's Law]]
 
 [[notes/Parkinson's Law]]
 
-[[notes/Brooks's Law]]
+[[notes/Brookss Law]]
 
-[[notes/Goodhart's Law]]
+[[notes/Goodharts Law]]
 
 [[notes/Law of Best Choice]]
 
-[[notes/Law of the Instrument]]
+[[intru]]
 
 ---
 # References

@@ -40,5 +40,5 @@ Overall, the cost-benefit analysis shows that investing in tooling and process i
 
 ## See also
 
-[[notes/Goodhart's Law]]
+[[notes/Goodharts Law]]
 [[notes/Little's Law]]

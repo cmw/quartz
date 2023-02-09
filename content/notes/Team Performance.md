@@ -62,4 +62,4 @@ Note: These values are estimates and may vary based on actual circumstances. The
 
 ## See also
 
-[[notes/Goodhart's Law]]
+[[notes/Goodharts Law]]
