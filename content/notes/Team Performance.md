@@ -59,3 +59,7 @@ Costs:
 Net Benefit: \$225,000 per year
 
 Note: These values are estimates and may vary based on actual circumstances. The purpose of this analysis is to demonstrate the potential impact of the changes made by the manager and to highlight the importance of considering both the benefits and costs of similar initiatives in the future.
+
+## See also
+
+[[notes/Goodhart's Law]]

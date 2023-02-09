@@ -37,3 +37,8 @@ The net benefit of implementing the tool and processes is therefore \$52,140 (\$
 In addition to the financial benefits, the increase in delivery speed also improved the company's ability to respond to market demands and meet customer needs more efficiently, potentially leading to increased customer satisfaction and loyalty. These benefits are more difficult to quantify, but should not be ignored.
 
 Overall, the cost-benefit analysis shows that investing in tooling and process improvement can lead to substantial financial gains, as well as other benefits that can contribute to the success of the company.
+
+## See also
+
+[[notes/Goodhart's Law]]
+[[notes/Little's Law]]

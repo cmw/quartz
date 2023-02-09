@@ -6,8 +6,6 @@ tags:
 - case-study
 enableToc: true
 ---
-Let's write a cost benefit analysis for the following case study:
-
 ## Introduction
 
 Acquisitions are a common occurrence in the business world and can lead to significant changes for employees, including uncertainty, and stress. These changes can lead to high turnover rates, which can negatively impact the company's performance. This study aims to examine a specific instance of an acquihire, where a company was acquired, and a specific team within that company was targeted to be retained. The challenge was to retain the team despite the trying times they went through, which typically cause some percentage of churn.
