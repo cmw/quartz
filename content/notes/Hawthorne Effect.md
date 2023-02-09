@@ -3,7 +3,7 @@ title: "Hawthorne Effect"
 tags:
 - bias
 ---
-# Hawthorne Effect
+# Definition
 
 > The Hawthorne Effect shows people, when being watched, choose to increase their performance. Many, in error, interpret this to mean more transparency means more productivity. But the increased performance often turns out to be Oscar-worthy acting to appear to be in the rails.[1]
 

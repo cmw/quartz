@@ -6,7 +6,7 @@ alias:
 - Secretary Problem
 ---
 
-# Law of Best Choice
+# Definition
 > An applicant must be selected on some time interval from an unknown number of rankable applicants. The goal is to maximize the probability of selecting only the best under the hypothesis that all arrival orders of different ranks are equally likely.
 
 # Strategy

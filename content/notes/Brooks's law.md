@@ -4,7 +4,7 @@ tags:
 - law
 ---
 
-# Brooks's Law
+# Definition
 
 > adding manpower to a late software project makes it later
 

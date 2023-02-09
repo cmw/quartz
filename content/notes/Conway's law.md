@@ -4,7 +4,7 @@ tags:
 - law
 ---
 
-# Conway's Law
+# Definition
 
 > Any Organization that designs a system … will produce a design whose structure is a copy of the organization's communication structure.
 > - Mel Conway

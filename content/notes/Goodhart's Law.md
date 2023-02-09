@@ -5,7 +5,7 @@ tags:
 - bias
 ---
 
-# Goodhart's Law
+# Definition
 
 Adage
 > When a measure becomes a target it seizes to be a good measure.
