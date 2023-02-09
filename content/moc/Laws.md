@@ -18,6 +18,8 @@ Some of the laws we come across in software development, project and people mana
 
 [[notes/Law of Best Choice]]
 
+[[notes/Law of the Instrument]]
+
 ---
 # References
 https://www.globalnerdy.com/2007/07/18/laws-of-software-development/
