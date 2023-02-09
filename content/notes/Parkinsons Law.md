@@ -4,7 +4,7 @@ tags:
 - law
 ---
 
-# Parkinson's Law
+# Definition
 
 > Work expands so as to fill the time available for its completion
 

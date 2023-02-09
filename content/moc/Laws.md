@@ -10,7 +10,7 @@ Some of the laws we come across in software development, project and people mana
 
 [[notes/Little's Law]]
 
-[[notes/Parkinson's Law]]
+[[notes/Parkinsons Law]]
 
 [[notes/Brookss Law]]
 
@@ -18,7 +18,7 @@ Some of the laws we come across in software development, project and people mana
 
 [[notes/Law of Best Choice]]
 
-[[intru]]
+[[notes/Law of the Instrument]]
 
 ---
 # References
